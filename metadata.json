@@ -1,0 +1,8 @@
+{
+  "name": "LexiGo 词灵",
+  "description": "专为微信粉丝设计的AI词汇进化系统。支持拍照识词、AI跟读、全场景学习及宠物进化激励。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
